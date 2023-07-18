@@ -6,6 +6,7 @@ import requests
 
 MOVIE_URL = "https://in.bookmyshow.com/buytickets/oppenheimer-imax-bengaluru/movie-bang-ET00363396-MT/20230728"
 
+#This ideally checks for validity of the URL to alert
 #Change the URL date in the end to when you wanna get alerted for
 
 # Email settings
